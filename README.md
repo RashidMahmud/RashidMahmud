@@ -1,5 +1,5 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Rashid Mahmud</h1>
-<h3 align="center">MERN Stack Developer</h3>
+<h3 align="center">💻 MERN Stack Developer</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=RashidMahmud">
@@ -9,12 +9,14 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" />
 
-## 📌 About Me
-- I am a Computer Science student and currently I am developing MERN Stack Web Development.
+## 👤 About Me
+- 🎓 I am a Computer Science student and currently I am developing MERN Stack Web Development
+- 💡 Passionate about building real-world projects
+- 📱 I can build scalable web applications that will boost your business
 
 
-## 🧠 My Focus Areas
-- MERN Stack Web Development
+## 🎯 My Focus Areas
+- 🧑‍💻To become a MERN Stack Software Engineer 
 
 
 ## 📊 GitHub Stats & Trophies
