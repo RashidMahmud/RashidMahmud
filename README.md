@@ -19,14 +19,14 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RashidMahmud&show_icons=true&theme=cobalt&hide_border=true&count_private=true&cache_seconds=86400" alt="RashidMahmud's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=RashidMahmud&theme=cobalt&hide_border=true&cache_seconds=86400" alt="RashidMahmud's GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RashidMahmud&show_icons=true&theme=monokai&hide_border=true&count_private=true&cache_seconds=86400" alt="RashidMahmud's GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=RashidMahmud&theme=monokai&hide_border=true&cache_seconds=86400" alt="RashidMahmud's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RashidMahmud&theme=cobalt&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Rashid Mahmud's GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RashidMahmud&theme=monokai&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Rashid Mahmud's GitHub Trophies" />
 </p>
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=RashidMahmud&theme=cobalt&radius=10" alt="RashidMahmud's Activity Graph" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=RashidMahmud&theme=monokai&radius=10" alt="RashidMahmud's Activity Graph" />
 </p>
 
 
@@ -51,7 +51,7 @@
 <p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" /></p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RashidMahmud&layout=compact&theme=cobalt&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RashidMahmud&layout=compact&theme=monokai&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
 </p>
 
 ## 🔗 Connect with Me
