@@ -50,7 +50,9 @@
 [![My Skills](https://skillicons.dev/icons?i=docker,vercel,nginx,git,github,vscode)](https://skillicons.dev)
 
 ## 🔗 Connect with Me
-<p align="center"> <a href="https://x.com/DevRashid360" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&color=FF00FF" alt="Rashid Mahmud's Twitter"/></a> <a href="mailto:rashidmahmud999@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Rashid Mahmud's Email"/></a> <a href="https://wa.me/1879309093" target="_blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a></p>
+<p align="center"> <a href="https://x.com/DevRashid360" target="_blank"><img src="https://cdn.simpleicons.org/x/FFFFFF" alt="X (Twitter)" width="40" height="40"/></a> 
+<a href="mailto:rashidmahmud999@gmail.com" target="_blank"><img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" width="40" height="40"/></a>
+<a href="https://wa.me/1879309093" target="_blank"><img src="https://cdn.simpleicons.org/whatsapp" alt="WhatsApp" width="40" height="40"/></a></p>
 
 ## 💬 Quote
 > Dedicated Coder
