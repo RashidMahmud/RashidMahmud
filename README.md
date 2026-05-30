@@ -47,14 +47,7 @@
 [![My Skills](https://skillicons.dev/icons?i=postgres,prisma)](https://skillicons.dev)
 
 > ## Tools
-<p align="center"><img src="https://camo.githubusercontent.com/ed1a07e6b4988b48671328cdb74d95f89c7498518a749f39c8bb8ddc5cb44fda/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465" /> 
-  <img src="https://camo.githubusercontent.com/08a1defd04c24c2c54d24d01b459f9c335f663e5d0c86d3df895e3dc31bf5714/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c5f53747564696f2d3030373864373f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c25323073747564696f266c6f676f436f6c6f723d7768697465" /> 
-  <img src="https://camo.githubusercontent.com/5daf4a43a052744aa6b0b076a06eff637c1c434ff5c6f911b8c3ee14eaf12130/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656475782d3539334438383f7374796c653d666f722d7468652d6261646765266c6f676f3d7265647578266c6f676f436f6c6f723d7768697465" /> 
-  <img src="https://img.shields.io/badge/Vite-ED125F?style=for-the-badge&logo=Vite" /></p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RashidMahmud&layout=compact&theme=merko&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
-</p>
+[![My Skills](https://skillicons.dev/icons?i=docker,vercel,nginx,git,github,vscode)](https://skillicons.dev)
 
 ## 🔗 Connect with Me
 <p align="center"> <a href="https://x.com/DevRashid360" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&color=FF00FF" alt="Rashid Mahmud's Twitter"/></a> <a href="mailto:rashidmahmud999@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Rashid Mahmud's Email"/></a> <a href="https://wa.me/1879309093" target="_blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a></p>
