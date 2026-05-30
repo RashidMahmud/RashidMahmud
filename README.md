@@ -44,7 +44,7 @@
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express)](https://skillicons.dev)
 
 > ## Database
-<p align="center"><img src="https://camo.githubusercontent.com/4fa6254f7d7266db902652f588f31985c2c55579795b4186278c9c252fccb053/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d3445413934423f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465" /></p>
+[![My Skills](https://skillicons.dev/icons?i=postgres,prisma)](https://skillicons.dev)
 
 > ## Tools
 <p align="center"><img src="https://camo.githubusercontent.com/ed1a07e6b4988b48671328cdb74d95f89c7498518a749f39c8bb8ddc5cb44fda/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465" /> 
